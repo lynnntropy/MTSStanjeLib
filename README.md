@@ -1,6 +1,11 @@
 # MTSStanjeLib
 Java/Kotlin biblioteka za preuzimanje stanja računa za korisnike Mobilne Telefonije Srbije.
 
+##Napomena
+Važno je razumeti da se ova biblioteka bazira na web stranici koja je dostupna samo kada ste povezani na MT:S internet
+preko broja za koji želite da proverite stanje. Prema tome, biblioteka je korisna samo kada se koristi na samom telefonu
+(npr. u Android aplikaciji), ili na računaru koji na internet izlazi preko telefona ili 3G modema.  
+
 ##Korišćenje
 Kotlin:
 

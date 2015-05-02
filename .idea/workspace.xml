@@ -32,8 +32,8 @@
       <file leaf-file-name="StanjeHandler.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StanjeHandler.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3785425" vertical-offset="0" max-vertical-offset="748">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6194332" vertical-offset="0" max-vertical-offset="748">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding>
                 <element signature="e#38#150#0" expanded="true" />
               </folding>
@@ -580,12 +580,12 @@
       <created>1430570229498</created>
       <option name="number" value="Default" />
       <updated>1430570229498</updated>
-      <workItem from="1430570232785" duration="6574000" />
+      <workItem from="1430570232785" duration="7007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6574000" />
+    <option name="totallyTimeSpent" value="7007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1456" height="886" extended-state="6" />
@@ -667,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StanjeHandler.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3785425" vertical-offset="0" max-vertical-offset="748">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6194332" vertical-offset="0" max-vertical-offset="748">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding>
             <element signature="e#38#150#0" expanded="true" />
           </folding>
